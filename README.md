@@ -15,3 +15,13 @@ It is to provide some basic images for testing different tools and solutions wit
 ### Rails 5
 
 - requires Ruby 2.2.2 or newer
+
+## Docker Hub Pages
+
+- https://hub.docker.com/r/iamteacher/rails5-base
+- https://hub.docker.com/r/iamteacher/rails6-base
+- https://hub.docker.com/r/iamteacher/rails7-base
+
+# License
+
+MIT
